@@ -1,0 +1,11 @@
+# Ignore all directories
+*/
+
+# Don't ignore .gitignore
+!.gitignore
+
+# Common files to ignore
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

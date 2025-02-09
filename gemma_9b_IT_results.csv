@@ -1,0 +1,17 @@
+query,ref_answer,actual,prompt_id
+Were Scott Derrickson and Ed Wood of the same nationality?,yes,"<bos>Were Scott Derrickson and Ed Wood of the same nationality?
+
+This is a bit of a trick question! 
+
+* **Scott Derrickson** is American.
+* **Ed Wood** was American. 
+
+
+Let me know if you have any other film trivia questions! 
+<end_of_turn><eos>",0
+What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?,Chief of Protocol,"<bos>What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?
+
+The woman who portrayed Corliss Archer in the film *Kiss and Tell* was **Jane Powell**. 
+
+Jane Powell did not hold any government positions. She was a famous actress and singer. 
+<end_of_turn><eos>",1
