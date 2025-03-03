@@ -1,6 +1,22 @@
 # Ignore all directories
 */
 
+# Ignore specific files
+EVAL_steered_jsonl.ipynb
+EVAL_steered_latents.ipynb
+EVAL_steered_latents_v2_before_RunWithMoreFolders.ipynb
+EVAL_steered_latents_v2_no_images_cleaned.ipynb
+Experiments_V1_LetsDrift.code-workspace
+Gemma2_BaseModel_nDatasets.ipynb
+HookedSAETransNames.md
+LetsDriftGemma2_DatasetSteered.ipynb
+LetsDriftGemma2_DatasetSteered_v2.ipynb
+LetsDriftGemma2_Hooked_continued.ipynb
+LetsDriftGemma2_Hooked_tutorials.ipynb
+gemma_2b_IT_results.csv
+gemma_9b_IT_results.csv
+jsonl_handing_experiments.ipynb
+
 # Don't ignore .gitignore
 !.gitignore
 
